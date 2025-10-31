@@ -1,4 +1,4 @@
-# Jose Gomez Camacho 
+# 31-oct-2025
 ## Desafíos
 
 ### 1. Suma de dígitos
